@@ -1,0 +1,21 @@
+{
+  "name": "salfni",
+  "version": "1.0.0",
+  "description": "Solution de Simulation et Gestion des Crédits en Ligne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/EssadeqBillouche/Salefni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/EssadeqBillouche/Salefni/issues"
+  },
+  "homepage": "https://github.com/EssadeqBillouche/Salefni#readme"
+}
