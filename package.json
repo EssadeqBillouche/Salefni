@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/EssadeqBillouche/Salefni/issues"
   },
-  "homepage": "https://github.com/EssadeqBillouche/Salefni#readme"
+  "homepage": "https://github.com/EssadeqBillouche/Salefni#readme",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
 }
